@@ -1,0 +1,24 @@
+{
+  "projects": [
+    {
+      "title": "To-Do",
+      "description": "Simple to-do made with vanilla javascript as a challenge in Algebra",
+      "link": "https://punyhuman666.github.io/algebra/"
+    },
+    {
+      "title": "Landing Page",
+      "description": "Landing page made as a challenge on Odin Project",
+      "link": "https://punyhuman666.github.io/Landing-Page/"
+    },
+    {
+      "title": "Rock, paper, scissors",
+      "description": "Simple console game made as a challenge Odin Project",
+      "link": "https://punyhuman666.github.io/rock-paper-scissors/"
+    },
+    {
+      "title": "Recipe page",
+      "description": "Recipe page made as a challenge on Fronted Mentor",
+      "link": "https://punyhuman666.github.io/fm-recipes/"
+    }
+  ]
+}
